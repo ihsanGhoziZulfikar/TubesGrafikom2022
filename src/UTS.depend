@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tugas\1\tugas1\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1664983952 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tugas\1\tugas1\main.cpp
+	<iostream>
+	<glad/glad.h>
+	<glfw/glfw3.h>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tugas\1\tugas1 - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tugas\2\tugas2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1665654777 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tugas\2\tugas2\main.cpp
+	<iostream>
+	<glad/glad.h>
+	<glfw/glfw3.h>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tugas\3c\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1666863816 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tugas\3c\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb/stb_image.h>
+	<learnopengl/shader_s.h>
+	<iostream>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\uts\uts2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1667716342 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\uts\uts2\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb/stb_image.h>
+	<learnopengl/shader_s.h>
+	<iostream>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\uts2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1669819246 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\uts2\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb/stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"learnopengl/shader_m.h"
+	"learnopengl/camera.h"
+	<iostream>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\tubes2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1669884259 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\tubes2\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb/stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"learnopengl/shader_m.h"
+	"learnopengl/camera.h"
+	<iostream>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\tubes3\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1670301384 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\tubes3\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb/stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"learnopengl/shader_m.h"
+	"learnopengl/camera.h"
+	<iostream>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\tubes4\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1670321474 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\tubes4\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb/stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"learnopengl/shader_m.h"
+	"learnopengl/camera.h"
+	<iostream>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\windmill2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1670753017 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\windmill2\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb/stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"learnopengl/shader_m.h"
+	"learnopengl/camera.h"
+	<iostream>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\landscape\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1671207885 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\landscape\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb/stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"learnopengl/shader_m.h"
+	"learnopengl/camera.h"
+	<iostream>
+
+1664979311 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\landscape2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1672388383 source:d:\kuliah\sem3\grafikakomputerdanmultimedia\tubes\landscape2\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb/stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"learnopengl/shader_m.h"
+	"learnopengl/camera.h"
+	<iostream>
+
